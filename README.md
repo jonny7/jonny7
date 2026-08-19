@@ -7,8 +7,8 @@ Areas I'd like to help in some way are environmental protections for wildlife an
 <center>
 <table>
     <tr>
-        <td><img width="450px" align="left" src="https://github.com/jonny7/github-stats/blob/master/generated/languages.svg" /></td>
-        <td><img width="450px" align="left" src="https://github.com/jonny7/github-stats/blob/master/generated/overview.svg"/></td>
+        <td><img width="450px" align="left" src="https://github.com/jonny7/github-stats/blob/master/languages.svg" /></td>
+        <td><img width="450px" align="left" src="https://github.com/jonny7/github-stats/blob/master/overview.svg"/></td>
     </tr>   
 </table>
 </center> 
